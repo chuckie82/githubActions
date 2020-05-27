@@ -1,4 +1,7 @@
 # githubActions
+
+[![Build Status - GitHub](https://github.com/chuckie82/githubActions/workflows/PythonApplication/badge.svg)](https://github.com/chuckie82/githubActions/actions?query=workflow%3Apytesting)
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/badges/shields/master/frontend/images/logo.svg?sanitize=true"
         height="130">
