@@ -6,7 +6,7 @@
          height="100"></a>
 </p>
 <p align="center">
-    <a href="https://github.com/chuckie82/githubActions/actions?query=workflow%20PythonApplication">
+    <a href="https://github.com/chuckie82/githubActions/actions?query=workflow%20PythonApplicationABC">
         <img src="https://github.com/chuckie82/githubActions/workflows/PythonApplication/badge.svg" alt="build status"></a>    
     <a href="https://codecov.io/gh/chuckie82/githubActions">
         <img src="https://codecov.io/gh/chuckie82/githubActions/branch/master/graph/badge.svg"
