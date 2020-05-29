@@ -5,6 +5,8 @@
 [myImg]: https://github.com/chuckie82/githubActions/workflows/PythonApplication/badge.svg
 [myImg-url]: https://github.com/chuckie82/githubActions/actions?query=workflow%20PythonApplication
 
+[![codecov](https://codecov.io/gh/chuckie82/githubActions/branch/master/graph/badge.svg)](https://codecov.io/gh/chuckie82/githubActions)
+
 ![Coverage badge][coverage-badge]
 
 [coverage-badge]: https://img.shields.io/badge/Coverage-78%25-brightgreen.svg
