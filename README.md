@@ -1,6 +1,13 @@
 # githubActions
 
-[![Build Status - GitHub](https://github.com/chuckie82/githubActions/workflows/PythonApplication/badge.svg)](https://github.com/chuckie82/githubActions/actions?query=workflow%20PythonApplication)
+[![Build Status - GitHub][myImg]][myImg-url]
+
+[myImg]: https://github.com/chuckie82/githubActions/workflows/PythonApplication/badge.svg
+[myImg-url]: https://github.com/chuckie82/githubActions/actions?query=workflow%20PythonApplication
+
+![Coverage badge][coverage-badge]
+
+[coverage-badge]: https://img.shields.io/badge/Coverage-78%25-brightgreen.svg
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/1917664/83215612-419a2a00-a11c-11ea-9931-b1b10509d3cd.gif?sanitize=true"
