@@ -37,7 +37,7 @@ jobs:
     #    pytest
     - name: Generate coverage report
       run: |
-        echo "::set-env name=PYTHONPATH::/home/runner/work/githubActions/githubActions/githubActions"
+        echo "::set-env name=PYTHONPATH::/home/runner/work/githubActions/githubActions"
         pytest --cov=./ --cov-report=xml
     - name: Upload coverage to Codecov
       uses: codecov/codecov-action@v1
