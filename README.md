@@ -3,8 +3,8 @@
 [![Build Status - GitHub](https://github.com/chuckie82/githubActions/workflows/PythonApplication/badge.svg)](https://github.com/chuckie82/githubActions/actions?query=workflow%3Apythonapplication)
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/badges/shields/master/frontend/images/logo.svg?sanitize=true"
-        height="130">
+    <img src="https://user-images.githubusercontent.com/1917664/83215612-419a2a00-a11c-11ea-9931-b1b10509d3cd.gif?sanitize=true"
+        height="100">
 </p>
 <p align="center">
     <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
