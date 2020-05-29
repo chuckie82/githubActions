@@ -1,2 +1,1 @@
-# __init__.py
-from .wallet import *
+ __init__.py
