@@ -1,23 +1,18 @@
 # githubActions
 
-[![Build Status - GitHub][myImg]][myImg-url]
-[myImg]: https://github.com/chuckie82/githubActions/workflows/PythonApplication/badge.svg
-[myImg-url]: https://github.com/chuckie82/githubActions/actions?query=workflow%20PythonApplication
-
-[![codecov](https://codecov.io/gh/chuckie82/githubActions/branch/master/graph/badge.svg)](https://codecov.io/gh/chuckie82/githubActions)
-
 <p align="center">
     <img src="https://user-images.githubusercontent.com/1917664/83215612-419a2a00-a11c-11ea-9931-b1b10509d3cd.gif?sanitize=true"
         height="100">
 </p>
 <p align="center">
-    <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
-    <a href="https://circleci.com/gh/badges/shields/tree/master">
-        <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status"></a>    
-    <a href="https://coveralls.io/github/badges/shields">
-        <img src="https://img.shields.io/coveralls/github/badges/shields"
-            alt="coverage"></a>  
+    <a href="https://github.com/chuckie82/githubActions/actions?query=workflow%20PythonApplication">
+        <img src="https://github.com/chuckie82/githubActions/workflows/PythonApplication/badge.svg" alt="build status"></a>    
+    <a href="https://codecov.io/gh/chuckie82/githubActions">
+        <img src="https://codecov.io/gh/chuckie82/githubActions/branch/master/graph/badge.svg"
+            alt="coverage"></a>
+    <a href="https://github.com/chuckie82/githubActions/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/github/contributors/badges/shields"></a>
+
 </p>
 
 This is home to [Shields.io][shields.io], a service for concise, consistent,
