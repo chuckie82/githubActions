@@ -1,6 +1,6 @@
 # githubActions
 
-[![Build Status - GitHub](https://github.com/chuckie82/githubActions/workflows/PythonApplication/badge.svg)](https://github.com/chuckie82/githubActions/actions?query=workflow%3Apythonapplication)
+[![Build Status - GitHub](https://github.com/chuckie82/githubActions/workflows/PythonApplication/badge.svg)](https://github.com/chuckie82/githubActions/actions?query=workflow%3APythonApplication)
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/1917664/83215612-419a2a00-a11c-11ea-9931-b1b10509d3cd.gif?sanitize=true"
