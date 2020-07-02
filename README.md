@@ -18,5 +18,4 @@
 
 This is home to [githubActions][githubActions].
 
-
 [githubActions]: https://github.com/chuckie82/githubActions/
