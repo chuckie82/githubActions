@@ -9,13 +9,12 @@ requirements = [
 
 setuptools.setup(name='githubActions',
       maintainer='Chunhong Yoon',
-      version='0.4.0',
+      version='0.0.1',
       maintainer_email='yoon82@stanford.edu',
-      description='Python version of singfel.',
+      description='Python application',
       long_description=open('README.md', encoding='utf8').read(),
-      url='https://github.com/chuckie82/pysingfel.git',
+      url='https://github.com/chuckie82/githubActions.git',
       packages=setuptools.find_packages(),
-      scripts=['bin/radiationDamageMPI'],
       install_requires=requirements,
       classifiers=[
           "Programming Language :: Python :: 3",
