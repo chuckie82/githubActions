@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://github.com/chuckie82/githubActions/">
-    <img src="data:image/svg+xml;base64,CjxpbWcgc3R5bGU9IndpZHRoOiAxMDAlOyBoZWlnaHQ6IGF1dG87IGZsb2F0OiBsZWZ0O2JhY2tncm91bmQtaW1hZ2U6IG5vbmU7IiBzcmM9Ii8vY2RuLm9ubGluZXdlYmZvbnRzLmNvbS9zdmcvaW1nXzM5NjA4MC5wbmciIGFsdD0iU3RhcnQiPgogIA==" width="128" height="128"></a>
+    <img src="data:image/svg+xml;base64,<svg>CjxpbWcgc3R5bGU9IndpZHRoOiAxMDAlOyBoZWlnaHQ6IGF1dG87IGZsb2F0OiBsZWZ0O2JhY2tncm91bmQtaW1hZ2U6IG5vbmU7IiBzcmM9Ii8vY2RuLm9ubGluZXdlYmZvbnRzLmNvbS9zdmcvaW1nXzM5NjA4MC5wbmciIGFsdD0iU3RhcnQiPgogIA==</svg>" width="128" height="128"></a>
 </p>
 
 <p align="center">
