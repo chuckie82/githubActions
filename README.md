@@ -2,11 +2,6 @@
 
 <p align="center">
     <a href="https://github.com/chuckie82/githubActions/">
-    <img src="data:image/svg+xml;base64,<svg>CjxpbWcgc3R5bGU9IndpZHRoOiAxMDAlOyBoZWlnaHQ6IGF1dG87IGZsb2F0OiBsZWZ0O2JhY2tncm91bmQtaW1hZ2U6IG5vbmU7IiBzcmM9Ii8vY2RuLm9ubGluZXdlYmZvbnRzLmNvbS9zdmcvaW1nXzM5NjA4MC5wbmciIGFsdD0iU3RhcnQiPgogIA==</svg>" width="128" height="128"></a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/chuckie82/githubActions/">
     <img src="https://user-images.githubusercontent.com/1917664/83215612-419a2a00-a11c-11ea-9931-b1b10509d3cd.gif?sanitize=true"
          height="100"></a>
 </p>
