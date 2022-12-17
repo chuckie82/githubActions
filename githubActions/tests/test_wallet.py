@@ -1,5 +1,6 @@
 import pytest
 from wallet import Wallet, InsufficientAmount
+import cupy
 
 @pytest.fixture
 def empty_wallet():
